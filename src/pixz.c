@@ -9,7 +9,7 @@ typedef enum {
     OP_READ,
     OP_EXTRACT,
     OP_LIST
-} pixz_op_t;
+} pixz_op_t
 
 static bool strsuf(char *big, char *small);
 static char *subsuf(char *in, char *suf1, char *suf2);
