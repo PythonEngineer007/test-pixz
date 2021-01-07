@@ -2,6 +2,8 @@
 
 #pragma mark FUNCTION DEFINITIONS
 
+
+
 void pixz_list(bool tar) {
     if (!decode_index())
 		die("Can't list non-seekable input");
