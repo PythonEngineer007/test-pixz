@@ -9,7 +9,7 @@ Repository: https://github.com/vasi/pixz
 
 Downloads: https://github.com/vasi/pixz/releases
 
-test-pixz vs xz
+--test-pixz vs xz
 ----------
 
 The existing [XZ Utils](http://tukaani.org/xz/) provide great compression in the `.xz` file format,
