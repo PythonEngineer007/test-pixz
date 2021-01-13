@@ -3,7 +3,7 @@
 tarball=$1
 sample=$2
 
-echo tt
+echo t
 echo XZ
 time xz -c < "$tarball" > test.txz
 time xz -cd < test.txz | tar xO "$sample" | md5sum
