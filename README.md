@@ -12,6 +12,7 @@ Downloads: https://github.com/vasi/pixz/releases
 --test-pixz vs xz
 ------------------
 
+
 The existing [XZ Utils](http://tukaani.org/xz/) provide great compression in the `.xz` file format,
 but they produce just one big block of compressed data. Pixz instead produces a collection of
 smaller blocks which makes random access to the original data possible. This is especially useful
